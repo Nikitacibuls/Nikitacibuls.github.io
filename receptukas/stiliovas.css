@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: white;
+}
+table{
+    border: solid 3px rgb(255, 255, 255);
+    margin: auto;
+    margin top: 10px;
+    height: 500px;
+    width: 1200px;
+}
+td{
+    border: solid 3px rgb(255, 255, 255);
+    text-align: center;
+
+}
+img{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+.img1{
+    margin: auto;
+    height: 300px;
+    width: 400px;
+}
+tr{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#vardas{
+    text-align: right;
+    color: white;
+}

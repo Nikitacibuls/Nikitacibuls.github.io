@@ -1,0 +1,32 @@
+p{
+    text-align: center;
+    color: #497283;
+    font-family: "Times New Roman", Times, serif;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(#EFF6D5, yellow);
+}
+h1{
+    background-color:#A9C445;
+    color: #13242A;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+ol{
+    text-align: center;
+    color: #13242A;
+    background-color:#699E42;
+    font-family: "Times New Roman", Times, serif;
+}
+#vardas{
+    text-align: right;
+    color: black;
+}
+.img{
+    border-radius: 15px;
+}
+
+
